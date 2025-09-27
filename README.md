@@ -4,9 +4,17 @@ Decodes IR Remote Control HX1838 codes for each button:
 <img src="./HX1838.jpeg"  width="20%" height="20%" align="left" alt="HX1838 IR remote control"/>
 
 
+|   |   |   |
+|---|---|---|
+| **1**  [&nbsp;&nbsp;93]| **2**  [157]| **3**  [&nbsp;&nbsp;29]|
+| **4**  [221]| **5**  [235]| **6**  [&nbsp;&nbsp;61]|
+| **7**  [&nbsp;&nbsp;31]| **8** [&nbsp;&nbsp;21]| **9**  [&nbsp;&nbsp;9]|
+|      | **^** [&nbsp;&nbsp;24]|       |
+| **\*** [&nbsp;&nbsp;8]|  **0**  [199]| **#**  [165]|
+|      | **V** [181]|       | 
 <br clear="left"/>
-
-![Sourced from Aliexpress](https://nl.aliexpress.com/item/1005006463650651.html)
+<br/>
+![Sourced from Aliexpress]((https://nl.aliexpress.com/item/1005006463650651.html))
 
 
 ## Gebruiken als extensie
