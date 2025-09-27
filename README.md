@@ -14,8 +14,8 @@ Decodes IR Remote Control HX1838 codes for each button:
 |      | **V** [181]|       | 
 <br clear="left"/>
 <br/>
-![Sourced from Aliexpress]((https://nl.aliexpress.com/item/1005006463650651.html))
 
+Sourced from <a href="https://nl.aliexpress.com/item/1005006463650651.html">Aliexpress</a> 
 
 ## Gebruiken als extensie
 
