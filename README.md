@@ -16,7 +16,8 @@ Decodes IR Remote Control HX1838 codes for each button:
 <br/>
 
 Sourced from <a href="https://nl.aliexpress.com/item/1005006463650651.html">Aliexpress</a> 
-
+<br/>
+IR button codes decoded with [ShowRawIRCode](../ShowRawIRCode)
 ## Gebruiken als extensie
 
 Deze repository kan worden toegevoegd als **extensie** in MakeCode.
