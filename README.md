@@ -1,6 +1,6 @@
 ## DecodeHX1838
 Decodes IR Remote Control HX1838 codes for each button:
-![HX1839](HX1839.jpeg)
+![HX1838](HX1838.jpeg)
 
 ## Gebruiken als extensie
 
