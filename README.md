@@ -2,7 +2,7 @@
 Decodes IR Remote Control HX1838 codes for each button:
 
 
-> Open deze pagina op [https://roboracemsw.github.io/roboracetemplate/](https://roboracemsw.github.io/roboracetemplate/)
+> Open deze pagina op [https://roboracemsw.github.io/DecodeHX1838/](https://roboracemsw.github.io/DecodeHX1838/)
 
 ## Gebruiken als extensie
 
