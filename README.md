@@ -7,10 +7,11 @@ Decodes IR Remote Control HX1838 codes for each button:
 |   |   |   |
 |---|---|---|
 | **1**  [&nbsp;&nbsp;93]| **2**  [157]| **3**  [&nbsp;&nbsp;29]|
-| **4**  [221]| **5**  [235]| **6**  [&nbsp;&nbsp;61]|
+| **4**  [221]| **5**  [253]| **6**  [&nbsp;&nbsp;61]|
 | **7**  [&nbsp;&nbsp;31]| **8** [&nbsp;&nbsp;21]| **9**  [&nbsp;&nbsp;9]|
+| **\*** [&nbsp;&nbsp;22]|  **0**  [25]| **#**  [13]|
 |      | **^** [&nbsp;&nbsp;24]|       |
-| **\*** [&nbsp;&nbsp;8]|  **OK**  [199]| **#**  [165]|
+| **<** [&nbsp;&nbsp;8]|  **OK**  [199]| **>**  [165]|
 |      | **V** [181]|       | 
 <br clear="left"/>
 <br/>
